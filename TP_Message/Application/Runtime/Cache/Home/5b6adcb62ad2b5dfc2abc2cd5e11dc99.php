@@ -11,7 +11,7 @@
 	<script type="text/javascript" src="/ThinkPHP_APP/TP_Message/Public/Home/js/login.js"></script>
 </head>
 <body>
-	<h1><?php echo ((isset($str) && ($str !== ""))?($str):'NONE'); ?></h1>
+	<!-- <h1><?php echo ((isset($str) && ($str !== ""))?($str):'NONE'); ?></h1> -->
 	<div id="loginWrapper">
 		<div id="loginPanel" class="easyui-panel" title="login">
 			<form action="<?php echo U('Login/submit');?>" method="POST">
