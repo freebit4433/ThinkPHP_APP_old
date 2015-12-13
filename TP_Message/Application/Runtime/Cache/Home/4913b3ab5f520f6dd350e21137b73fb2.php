@@ -5,6 +5,12 @@
 	<title>Index test</title>
 </head>
 <body>
-	<?php echo ($res); ?>
+	PUBLIC<p>/ThinkPHP_APP/TP_Message/Public</p>
+	TMPL<p>__TMPL__</p>
+	ROOT<p>/ThinkPHP_APP/TP_Message</p>
+	APP<p>/ThinkPHP_APP/TP_Message/index.php</p>
+	URL<p>/ThinkPHP_APP/TP_Message/index.php/Home/Index</p>
+	ACTION<p>/ThinkPHP_APP/TP_Message/index.php/Home/Index/test</p>
+	SELF<p>/ThinkPHP_APP/TP_Message/index.php/Home/Index/test</p>
 </body>
 </html>

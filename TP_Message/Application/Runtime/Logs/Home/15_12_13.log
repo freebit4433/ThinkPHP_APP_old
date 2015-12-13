@@ -1,0 +1,530 @@
+[ 2015-12-13T09:54:40+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006197s ]
+
+[ 2015-12-13T09:54:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006042s ]
+
+[ 2015-12-13T10:35:50+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006114s ]
+
+[ 2015-12-13T10:35:50+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006069s ]
+
+[ 2015-12-13T10:36:14+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.004493s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020636s ]
+
+[ 2015-12-13T10:36:15+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016515s ]
+
+[ 2015-12-13T10:45:45+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006539s ]
+
+[ 2015-12-13T10:45:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/md5.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006053s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:45:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006075s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:45:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/easyui/themes/default/easyui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046391s ]
+ERR: 非法操作:easyui
+
+[ 2015-12-13T10:45:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/easyui/jquery.easyui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.040537s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046362s ]
+ERR: 非法操作:easyui
+
+[ 2015-12-13T10:45:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/easyui/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046403s ]
+ERR: 非法操作:easyui
+
+[ 2015-12-13T10:45:47+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006235s ]
+
+[ 2015-12-13T10:45:47+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036469s ]
+
+[ 2015-12-13T10:45:47+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/php/vcode.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036283s ]
+ERR: 非法操作:php
+
+[ 2015-12-13T10:45:47+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/easyui/jquery.easyui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006119s ]
+ERR: 非法操作:easyui
+
+[ 2015-12-13T10:45:48+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/md5.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006534s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:45:48+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006302s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:45:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036611s ]
+
+[ 2015-12-13T10:45:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.030511s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036583s ]
+
+[ 2015-12-13T10:45:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Public/Home/img/icons/7.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006059s ]
+
+[ 2015-12-13T10:45:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/php/vcode.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036412s ]
+ERR: 非法操作:php
+
+[ 2015-12-13T10:49:16+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005933s ]
+
+[ 2015-12-13T10:49:17+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Public/easyui/themes/default/easyui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.039531s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-12-13T10:49:18+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.053183s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:49:18+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Public/easyui/jquery.easyui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046437s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-12-13T10:49:18+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Public/easyui/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046378s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-12-13T10:49:18+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/md5.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007910s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:49:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005925s ]
+
+[ 2015-12-13T10:49:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006048s ]
+
+[ 2015-12-13T10:49:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Public/easyui/jquery.easyui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036394s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-12-13T10:49:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/php/vcode.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005939s ]
+ERR: 非法操作:php
+
+[ 2015-12-13T10:49:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/md5.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006318s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:49:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006393s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:49:20+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012095s ]
+
+[ 2015-12-13T10:49:20+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036346s ]
+
+[ 2015-12-13T10:49:20+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Public/Home/img/icons/7.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036340s ]
+
+[ 2015-12-13T10:49:20+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/php/vcode.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000262s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036650s ]
+ERR: 非法操作:php
+
+[ 2015-12-13T10:49:57+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006406s ]
+
+[ 2015-12-13T10:49:58+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/md5.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006165s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:49:58+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006175s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:49:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006167s ]
+
+[ 2015-12-13T10:49:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036434s ]
+
+[ 2015-12-13T10:49:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/php/vcode.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.030549s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036421s ]
+ERR: 非法操作:php
+
+[ 2015-12-13T10:49:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/md5.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006159s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:50:00+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006394s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:50:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/0.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036377s ]
+
+[ 2015-12-13T10:50:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/img/icons/1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026584s ]
+
+[ 2015-12-13T10:50:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/php/vcode.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005947s ]
+ERR: 非法操作:php
+
+[ 2015-12-13T10:50:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Public/Home/img/icons/7.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013548s ]
+
+[ 2015-12-13T10:51:29+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006176s ]
+
+[ 2015-12-13T10:51:30+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/md5.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006122s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:51:30+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016448s ]
+ERR: 非法操作:js
+
+[ 2015-12-13T10:54:05+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006332s ]
+
+[ 2015-12-13T11:05:45+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006326s ]
+
+[ 2015-12-13T11:06:16+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006388s ]
+
+[ 2015-12-13T11:07:00+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008458s ]
+
+[ 2015-12-13T11:08:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006159s ]
+
+[ 2015-12-13T11:09:08+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003237s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013332s ]
+
+[ 2015-12-13T11:09:24+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006329s ]
+ERR: 无法加载控制器:Home
+
+[ 2015-12-13T11:09:34+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.phpLogin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006365s ]
+ERR: 无法加载控制器:Index.phpLogin
+
+[ 2015-12-13T11:09:43+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006151s ]
+
+[ 2015-12-13T11:11:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006041s ]
+
+[ 2015-12-13T11:22:48+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006387s ]
+
+[ 2015-12-13T11:23:32+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006357s ]
+
+[ 2015-12-13T11:24:21+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009852s ]
+
+[ 2015-12-13T11:25:06+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006305s ]
+
+[ 2015-12-13T11:25:08+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006188s ]
+
+[ 2015-12-13T11:25:20+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000370s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006397s ]
+
+[ 2015-12-13T11:26:36+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006348s ]
+
+[ 2015-12-13T11:26:45+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006235s ]
+
+[ 2015-12-13T11:26:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006169s ]
+
+[ 2015-12-13T11:29:47+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015202s ]
+
+[ 2015-12-13T11:30:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006083s ]
+
+[ 2015-12-13T11:36:34+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006385s ]
+
+[ 2015-12-13T11:36:36+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/registerClick.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006402s ]
+
+[ 2015-12-13T11:36:37+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000604s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006316s ]
+
+[ 2015-12-13T11:44:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006509s ]
+
+[ 2015-12-13T11:44:22+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/registerClick.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006291s ]
+
+[ 2015-12-13T11:44:22+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006336s ]
+
+[ 2015-12-13T12:13:57+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006226s ]
+
+[ 2015-12-13T12:15:10+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006624s ]
+
+[ 2015-12-13T12:15:38+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006346s ]
+
+[ 2015-12-13T12:15:57+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006595s ]
+
+[ 2015-12-13T12:16:39+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006866s ]
+
+[ 2015-12-13T12:17:11+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016698s ]
+
+[ 2015-12-13T12:24:31+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006098s ]
+
+[ 2015-12-13T12:24:45+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006380s ]
+
+[ 2015-12-13T12:38:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006368s ]
+
+[ 2015-12-13T12:39:02+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012448s ]
+
+[ 2015-12-13T12:39:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006273s ]
+
+[ 2015-12-13T12:40:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006545s ]
+
+[ 2015-12-13T12:46:07+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006464s ]
+
+[ 2015-12-13T12:47:40+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006653s ]
+
+[ 2015-12-13T12:49:35+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015882s ]
+
+[ 2015-12-13T12:51:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006089s ]
+
+[ 2015-12-13T12:51:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000467s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006321s ]
+
+[ 2015-12-13T12:52:05+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006553s ]
+
+[ 2015-12-13T12:52:10+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006263s ]
+
+[ 2015-12-13T12:52:12+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006361s ]
+
