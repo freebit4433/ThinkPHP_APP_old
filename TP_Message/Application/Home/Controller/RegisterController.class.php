@@ -11,8 +11,9 @@ class RegisterController extends Controller{
 			$this->error('拒绝访问!','../Login/index',1);
 		}else{
 			$userTable = D('Register');
-			if($data = $userTable->create()){
-				dump($data);
+			if($data = $userTable->field('username,password,registertime,imgnum,sex,webpage')->create()){
+				$userTable->add();
+				$this->success('注册成功！','../Login/index');
 			}else{
 				$this->error($userTable->getError(),'index',1);
 			}

@@ -51,9 +51,9 @@
 	font-family: 微软雅黑;
 	display: block;
 }
-/* #register:hover {
+#register:hover {
 	cursor: pointer;
-} */
+}
 #inputBorderSex{
 	border: 1px solid #BDBDBD;
 	position: relative;
