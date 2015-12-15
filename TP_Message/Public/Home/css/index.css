@@ -14,9 +14,11 @@
 	background-color: #9dd6c5;
 	line-height:24px;
 	font-size: 12px;
+	border: 0;
 }
 #submit:hover {
 	background-color: #AFE0D1;
+	cursor: pointer;
 }
 #commentContent {
 	width: 550px;

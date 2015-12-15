@@ -288,3 +288,662 @@ INFO: [ app_init ] --START--
 INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
 INFO: [ app_init ] --END-- [ RunTime:0.006080s ]
 
+[ 2015-12-15T12:58:15+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017372s ]
+
+[ 2015-12-15T12:58:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/registerClick.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011067s ]
+
+[ 2015-12-15T12:58:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007998s ]
+
+[ 2015-12-15T12:59:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Register/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005911s ]
+
+[ 2015-12-15T12:59:03+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006292s ]
+
+[ 2015-12-15T13:00:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006390s ]
+
+[ 2015-12-15T13:01:04+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006741s ]
+
+[ 2015-12-15T13:01:04+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006534s ]
+
+[ 2015-12-15T13:12:03+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006570s ]
+
+[ 2015-12-15T13:12:25+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006075s ]
+
+[ 2015-12-15T13:13:39+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006293s ]
+
+[ 2015-12-15T13:15:26+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006084s ]
+
+[ 2015-12-15T13:17:36+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006379s ]
+
+[ 2015-12-15T13:19:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006338s ]
+
+[ 2015-12-15T13:24:03+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006538s ]
+
+[ 2015-12-15T13:24:05+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006506s ]
+ERR: 非法操作:html
+
+[ 2015-12-15T13:24:18+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006433s ]
+
+[ 2015-12-15T13:24:38+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006582s ]
+
+[ 2015-12-15T13:24:40+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006532s ]
+
+[ 2015-12-15T13:24:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000656s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006483s ]
+
+[ 2015-12-15T13:29:25+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000364s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006381s ]
+
+[ 2015-12-15T13:32:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005958s ]
+
+[ 2015-12-15T13:32:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009701s ]
+
+[ 2015-12-15T13:33:22+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007615s ]
+
+[ 2015-12-15T13:33:25+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009829s ]
+
+[ 2015-12-15T13:36:36+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006319s ]
+
+[ 2015-12-15T13:36:41+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000491s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009784s ]
+
+[ 2015-12-15T13:37:15+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006214s ]
+
+[ 2015-12-15T13:37:17+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008904s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009894s ]
+
+[ 2015-12-15T13:39:36+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000270s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006417s ]
+
+[ 2015-12-15T13:39:39+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009649s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000755s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001752s ]
+NOTIC: [8] Undefined variable: username /home/pi/www/ThinkPHP_APP/TP_Message/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 15 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.116482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.117469s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009306s ]
+
+[ 2015-12-15T13:44:27+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006323s ]
+
+[ 2015-12-15T13:45:23+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006587s ]
+
+[ 2015-12-15T13:45:39+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006246s ]
+
+[ 2015-12-15T13:46:02+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006406s ]
+
+[ 2015-12-15T13:46:11+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006178s ]
+
+[ 2015-12-15T13:46:21+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006127s ]
+
+[ 2015-12-15T14:42:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006345s ]
+
+[ 2015-12-15T14:42:50+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006332s ]
+
+[ 2015-12-15T14:42:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006243s ]
+
+[ 2015-12-15T14:42:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006324s ]
+
+[ 2015-12-15T14:43:05+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008840s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009829s ]
+
+[ 2015-12-15T15:02:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006579s ]
+
+[ 2015-12-15T15:02:57+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006416s ]
+
+[ 2015-12-15T15:03:00+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009414s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','thinkphp comment&lt;script&gt;','1450162980') [ RunTime:0.0144s ]
+
+[ 2015-12-15T15:06:40+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006281s ]
+
+[ 2015-12-15T15:25:22+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006199s ]
+
+[ 2015-12-15T15:25:23+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009870s ]
+
+[ 2015-12-15T15:43:25+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000373s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008071s ]
+
+[ 2015-12-15T15:43:26+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009748s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0030s ]
+
+[ 2015-12-15T15:45:36+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006120s ]
+
+[ 2015-12-15T15:45:37+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009072s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0010s ]
+
+[ 2015-12-15T15:46:15+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009500s ]
+
+[ 2015-12-15T15:46:16+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009320s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0010s ]
+
+[ 2015-12-15T15:47:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006496s ]
+
+[ 2015-12-15T15:47:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009790s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0011s ]
+
+[ 2015-12-15T15:53:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006309s ]
+
+[ 2015-12-15T15:53:50+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009703s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0030s ]
+
+[ 2015-12-15T15:54:34+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006160s ]
+
+[ 2015-12-15T15:54:35+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000476s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009446s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0029s ]
+
+[ 2015-12-15T15:54:45+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006558s ]
+
+[ 2015-12-15T15:54:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009750s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-15T15:56:36+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006381s ]
+
+[ 2015-12-15T15:56:38+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006016s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009338s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika1'  [ RunTime:0.0028s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika3'  [ RunTime:0.0027s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0025s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-15T16:10:20+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006995s ]
+
+[ 2015-12-15T16:10:21+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009333s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0088s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika3'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-15T16:11:37+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006374s ]
+
+[ 2015-12-15T16:11:38+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005994s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009386s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika3'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-15T16:16:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006523s ]
+
+[ 2015-12-15T16:16:47+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009694s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.1994s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika3'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-15T16:28:32+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006356s ]
+
+[ 2015-12-15T16:28:33+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000483s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009345s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0088s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika3'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-15T16:28:51+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/delete.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009742s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: DELETE FROM `table2comment` WHERE `id` = 8 [ RunTime:0.0178s ]
+
+[ 2015-12-15T16:29:40+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006080s ]
+
+[ 2015-12-15T16:29:41+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009344s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0091s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika1'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika3'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-15T16:30:17+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006363s ]
+
+[ 2015-12-15T16:30:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009750s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika3'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-15T16:30:38+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009400s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','thinkphp comment 2 test','1450168238') [ RunTime:0.0120s ]
+
+[ 2015-12-15T16:30:40+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009338s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0091s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika1'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika3'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-15T16:30:51+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/delete.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009364s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: DELETE FROM `table2comment` WHERE `id` = 9 [ RunTime:0.1947s ]
+
+[ 2015-12-15T16:30:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009359s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika3'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-15T16:31:06+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/delete.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009672s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: DELETE FROM `table2comment` WHERE `id` = 1 [ RunTime:0.0123s ]
+
+[ 2015-12-15T16:31:08+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/refresh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009709s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `table2comment`  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika1'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika3'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = '正式1'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+

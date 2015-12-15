@@ -7,8 +7,6 @@
 	<link rel="stylesheet" href="/ThinkPHP_APP/TP_Message/Public/Home/easyui/themes/default/easyui.css" />
 	<script type="text/javascript" src="/ThinkPHP_APP/TP_Message/Public/Home/easyui/jquery.min.js"></script>
 	<script type="text/javascript" src="/ThinkPHP_APP/TP_Message/Public/Home/easyui/jquery.easyui.min.js"></script>
-	<script type="text/javascript" src="/ThinkPHP_APP/TP_Message/Public/Home/js/md5.js"></script>
-	<script type="text/javascript" src="/ThinkPHP_APP/TP_Message/Public/Home/js/login.js"></script>
 </head>
 <body>
 	<!-- <h1><?php echo ((isset($str) && ($str !== ""))?($str):'NONE'); ?></h1> -->
