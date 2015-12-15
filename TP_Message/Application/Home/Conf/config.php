@@ -10,7 +10,7 @@ return array(
 	'DB_PREFIX' => '',
 	'DB_CHARSET' => 'utf8',
 
-	'URL_MODEL' => 1,
+	'URL_MODEL' => 2,
 	'URL_HTML_SUFFIX' => 'html|shtml',
 	'SHOW_PAGE_TRACE' => TRUE
 

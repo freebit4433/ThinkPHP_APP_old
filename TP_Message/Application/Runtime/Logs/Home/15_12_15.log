@@ -1,0 +1,155 @@
+[ 2015-12-15T11:39:43+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007321s ]
+
+[ 2015-12-15T11:40:10+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006263s ]
+
+[ 2015-12-15T11:40:27+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006407s ]
+
+[ 2015-12-15T11:41:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006394s ]
+
+[ 2015-12-15T11:41:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008875s ]
+
+[ 2015-12-15T11:41:48+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Index/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006191s ]
+
+[ 2015-12-15T11:41:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Index/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006155s ]
+
+[ 2015-12-15T11:41:51+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Index/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000241s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005880s ]
+
+[ 2015-12-15T11:41:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Index/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000241s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005779s ]
+
+[ 2015-12-15T11:42:21+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006059s ]
+
+[ 2015-12-15T11:42:37+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006110s ]
+
+[ 2015-12-15T11:42:57+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000240s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006088s ]
+
+[ 2015-12-15T11:42:58+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005762s ]
+
+[ 2015-12-15T11:45:50+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006305s ]
+
+[ 2015-12-15T11:46:26+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007010s ]
+
+[ 2015-12-15T11:46:27+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006595s ]
+
+[ 2015-12-15T11:47:09+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006418s ]
+
+[ 2015-12-15T11:47:09+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006465s ]
+
+[ 2015-12-15T11:47:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006765s ]
+
+[ 2015-12-15T11:47:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006512s ]
+
+[ 2015-12-15T11:48:24+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/registerClick.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006686s ]
+
+[ 2015-12-15T11:48:25+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006389s ]
+
+[ 2015-12-15T11:48:44+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006597s ]
+
+[ 2015-12-15T11:48:45+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006444s ]
+
+[ 2015-12-15T11:49:21+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/registerClick.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006225s ]
+
+[ 2015-12-15T11:49:22+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006380s ]
+
+[ 2015-12-15T11:49:29+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Register/submit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006566s ]
+
+[ 2015-12-15T11:49:31+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006062s ]
+
+[ 2015-12-15T11:51:27+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006584s ]
+
+[ 2015-12-15T11:51:34+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006755s ]
+
+[ 2015-12-15T11:51:35+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006363s ]
+

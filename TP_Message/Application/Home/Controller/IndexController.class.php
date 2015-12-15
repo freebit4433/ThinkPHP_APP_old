@@ -6,14 +6,21 @@ class IndexController extends Controller {
         if (session('?isLogin')) {
             if (session('isLogin')) {
                 return true;
+            }else{
+                $this->redirect('Login/index');
             }
         }else{
-            $this->error('请登陆！','Login/index',1);
+            $this->redirect('Login/index');
         }
     }
 
     public function index(){
         $this->display();
+    }
+
+    public function logout(){
+        session('[destroy]');
+        $this->redirect('Login/index');
     }
 
 }
