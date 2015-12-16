@@ -27,11 +27,16 @@
 				<p clasa="text" id="c1Text">这是评论</p>
 				<a class="delete" id="c1Delete" href="">删除</a>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			</div> -->
 		</div>
 		<div id ="page">
 			
 		</div>
+=======
+			</div>
+		</div> -->
+>>>>>>> parent of 81daa03... all over version 1.0
 =======
 			</div>
 		</div> -->

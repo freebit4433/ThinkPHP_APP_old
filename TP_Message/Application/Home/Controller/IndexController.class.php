@@ -25,6 +25,7 @@ class IndexController extends Controller {
     }
 
 
+
     public function submit(){
         if (!IS_POST) {
             $this->error('拒绝访问！','../Login/index',1);
@@ -48,10 +49,10 @@ class IndexController extends Controller {
 
     public function refresh(){
         $commentTable = M('table2comment');
-        $count = $commentTable->count();
+        /*$count = $commentTable->count();
         $page = new Page($count,10);
-        $showPage = $page->show();
-        $commentData = $commentTable->limit($page->firstRow,$page->listRows)->select();
+        $showPage = $page->show();*/
+        $commentData = $commentTable->select();
 
         foreach ($commentData as $rowNum => $rowData) {
             date_default_timezone_set('PRC');
@@ -78,6 +79,7 @@ class IndexController extends Controller {
             $this->ajaxReturn($txData,'json');
         }
     }
+
 
 
 }
