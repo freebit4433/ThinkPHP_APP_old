@@ -2,6 +2,7 @@
 namespace Home\Controller;
 use Think\Controller;
 use Think\Model;
+use Home\Common\Vcode;
 class LoginController extends Controller{
 	public function index(){
 		$this->display();
@@ -10,6 +11,11 @@ class LoginController extends Controller{
 	public function submit(){
 		if (!IS_POST) {
 			$this->error('页面不存在！','index',1);
+		}
+		$verify = session('vcode');
+		$vcode = I('post.vcode');
+		if ($vcode !=$verify) {
+			$this->error('验证码输入有误！','index',1);
 		}
 		$userTable = D('Login');
 		if ($condition = $userTable->field('username,password')->create($_POST,Model::MODEL_INSERT)) {
@@ -31,6 +37,15 @@ class LoginController extends Controller{
 
 	public function registerClick(){
 		$this->redirect('Register/index');
+	}
+
+	public function verify(){
+		$vCode = new Vcode(55,20,4,1);
+		$vCodeString = $vCode->achieveString();
+
+		$_SESSION['vcode'] = $vCodeString;
+		$vCode->achieveImage();
+		$vCode = NULL;
 	}
 }
 

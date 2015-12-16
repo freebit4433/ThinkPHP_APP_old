@@ -15,9 +15,11 @@ function submit(){
 	data.comment = $("#commentContent").val();
 	$.post(url,data,function(rxData){
 		if (rxData.flag) {
-			alert("提交成功!");
+			//alert("提交成功!");
 			refresh();
-		};
+		}else{
+			alert("提交失败!");
+		}
 		
 	},'json');
 }
@@ -33,53 +35,60 @@ function refresh(){
 
 	$.post(url,function(data){
 		for(var row in data){
-			var htmlCont = '\
-				<div id="indexWrapper" class="cX">\
-					<span class="indexid" hidden="hidden">indexidcontent</span>\
-					<img class="img" src="/ThinkPHP_APP/TP_Message/Public/Home/img/imgnum.jpg" />\
-					<a class="userName" href="webpage">username</a>&nbsp;&nbsp;&nbsp;&nbsp;\
-					<span class="date">datee</span>\
-					<p clasa="text">commcon</p>\
-					<a class="delete">删除</a>\
-				</div>\
-			';
-			htmlCont = htmlCont.replace(/indexidcontent/,data[row]["id"]);
-			htmlCont = htmlCont.replace(/username/,data[row]["username"]);
-			htmlCont = htmlCont.replace(/datee/,data[row]["commenttime"]);
-			htmlCont = htmlCont.replace(/imgnum/,data[row]["imgnum"]);
-			htmlCont = htmlCont.replace(/webpage/,data[row]["webpage"]);
-			htmlCont = htmlCont.replace(/commcon/,data[row]["comment"]);
-			if (data[row]["username"] == username){
-				indexWrapper = "indexWrapper" + data[row]["id"];
-				htmlCont = htmlCont.replace(/indexWrapper/,indexWrapper);
+			if (row == 'showpage') {
+				var showPage = data['showpage'];
+				$("#page").empty();
+				$("#page").prepend(showPage);
+				
 			}else{
-				htmlCont = htmlCont.replace(/indexWrapper/,"");
+				var htmlCont = '\
+					<div id="indexWrapper" class="cX">\
+						<span class="indexid" hidden="hidden">indexidcontent</span>\
+						<img class="img" src="/ThinkPHP_APP/TP_Message/Public/Home/img/imgnum.jpg" />\
+						<a class="userName" href="webpage">username</a>&nbsp;&nbsp;&nbsp;&nbsp;\
+						<span class="date">datee</span>\
+						<p clasa="text">commcon</p>\
+						<a class="delete">删除</a>\
+					</div>\
+				';
+				htmlCont = htmlCont.replace(/indexidcontent/,data[row]["id"]);
+				htmlCont = htmlCont.replace(/username/,data[row]["username"]);
+				htmlCont = htmlCont.replace(/datee/,data[row]["commenttime"]);
+				htmlCont = htmlCont.replace(/imgnum/,data[row]["imgnum"]);
+				htmlCont = htmlCont.replace(/webpage/,data[row]["webpage"]);
+				htmlCont = htmlCont.replace(/commcon/,data[row]["comment"]);
+				if (data[row]["username"] == username){
+					indexWrapper = "indexWrapper" + data[row]["id"];
+					htmlCont = htmlCont.replace(/indexWrapper/,indexWrapper);
+				}else{
+					htmlCont = htmlCont.replace(/indexWrapper/,"");
+				}
+				$("#content").prepend(htmlCont);
+
+				if (data[row]["username"] == username) {
+					$("#"+indexWrapper).bind('mouseenter',{indexWrapper:indexWrapper},function(event) {
+						$("#" + event.data.indexWrapper + " .delete").css('display', 'block');
+					});
+					$("#" + indexWrapper).bind('mouseleave',{indexWrapper:indexWrapper}, function(event) {
+						$("#" + event.data.indexWrapper + " .delete").css('display', 'none');
+					});
+					$("#" + indexWrapper + " .delete").bind('click',{id:data[row]["id"]}, function(event) {
+						var txid = event.data.id;
+						var txDataDelete = new Object();
+						txDataDelete.deleteid = txid;
+						$.post(deleteUrl,txDataDelete,function(rxData){
+							if (rxData.flag) {
+								alert("删除成功！");
+								refresh();
+							};
+						},'json');
+						txDataDelete = null;
+					});
+				};
+
+				indexWrapper = null;
+				htmlCont = null;
 			}
-			$("#content").prepend(htmlCont);
-
-			if (data[row]["username"] == username) {
-				$("#"+indexWrapper).bind('mouseenter',{indexWrapper:indexWrapper},function(event) {
-					$("#" + event.data.indexWrapper + " .delete").css('display', 'block');
-				});
-				$("#" + indexWrapper).bind('mouseleave',{indexWrapper:indexWrapper}, function(event) {
-					$("#" + event.data.indexWrapper + " .delete").css('display', 'none');
-				});
-				$("#" + indexWrapper + " .delete").bind('click',{id:data[row]["id"]}, function(event) {
-					var txid = event.data.id;
-					var txDataDelete = new Object();
-					txDataDelete.deleteid = txid;
-					$.post(deleteUrl,txDataDelete,function(rxData){
-						if (rxData.flag) {
-							alert("删除成功！");
-							refresh();
-						};
-					},'json');
-					txDataDelete = null;
-				});
-			};
-
-			indexWrapper = null;
-			htmlCont = null;
 		}
 	},'json');
 }

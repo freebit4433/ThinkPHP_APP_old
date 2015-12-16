@@ -32,6 +32,9 @@
 				<a class="delete" id="c1Delete" href="">删除</a>
 			</div> -->
 		</div>
+		<div id ="page">
+			
+		</div>
 	</div>
 </body>
 </html>
