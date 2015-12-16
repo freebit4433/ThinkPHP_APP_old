@@ -1,4 +1,5 @@
 $(document).ready(function(){
+<<<<<<< HEAD
 	$("#submit").bind('click',function(){submit();});
 	$(document).bind('keydown', function(event) {
 		var keynum = event.which;
@@ -92,3 +93,7 @@ function refresh(){
 		}
 	},'json');
 }
+=======
+	
+})
+>>>>>>> parent of 81daa03... all over version 1.0

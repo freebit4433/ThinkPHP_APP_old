@@ -16,8 +16,6 @@ class IndexController extends Controller {
     }
 
     public function index(){
-        $userName = session('username');
-        $this->assign('username',$userName);
         $this->display();
     }
 
@@ -25,6 +23,7 @@ class IndexController extends Controller {
         session('[destroy]');
         $this->redirect('Login/index');
     }
+
 
     public function submit(){
         if (!IS_POST) {
@@ -79,5 +78,6 @@ class IndexController extends Controller {
             $this->ajaxReturn($txData,'json');
         }
     }
+
 
 }
